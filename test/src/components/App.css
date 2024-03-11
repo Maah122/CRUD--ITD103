@@ -1,0 +1,30 @@
+/* Custom Styles */
+.bg-custom-primary {
+  background-color: #3498db; /* Customized primary background color */
+}
+
+.bg-custom-white {
+  background-color: #ecf0f1; /* Customized white background color */
+}
+
+.table-custom {
+  background-color: #f9f9f9; /* Customized table background color */
+}
+
+.btn-custom-success {
+  background-color: #2ecc71; /* Customized success button color */
+  border-color: #2ecc71; /* Border color for success button */
+  color: #ffffff; /* Text color for success button */
+}
+
+.btn-custom-danger {
+  background-color: #e74c3c; /* Customized danger button color */
+  border-color: #e74c3c; /* Border color for danger button */
+  color: #ffffff; /* Text color for danger button */
+}
+
+.btn-custom-primary {
+  background-color: #9b59b6; /* Customized primary button color */
+  border-color: #9b59b6; /* Border color for primary button */
+  color: #ffffff; /* Text color for primary button */
+}
